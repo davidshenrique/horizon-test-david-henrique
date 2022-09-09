@@ -7,7 +7,13 @@ Utilizei o React para consumir a API do Spotify e o Chakra UI para uma estiliza�
 ## Instalação
 
 1. Clone o repositório
-2. Entre na pasta 'app'
+
+``git clone https://github.com/davidshenrique/horizon-test-david-henrique.git``
+
+2. Navegue até a pasta 'app'
+
+``cd horizon-test-david-henrique/app``
+
 3. Instale as dependências
 
 ``npm install``
